@@ -1,0 +1,4 @@
+satellitetle
+sgp4
+astropy
+numpy
